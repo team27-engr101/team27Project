@@ -5,8 +5,8 @@ using namespace std;
 
 double startSpeed = 30;	// The initial speed of the robot
 @@ -16,30 +17,52 @@ double vRight = startSpeed;
- * Will return negitive value if to the left and positive if to the right
- */
+ // Will return negitive value if to the left and positive if to the right
+ 
 double error(){
 	// Opens the current image
     OpenPPMFile("cam.ppm",cameraView);
