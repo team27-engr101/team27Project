@@ -51,7 +51,6 @@ of it you found previously. Using this information download the relevant matchin
 
 Making and running the programs
 
-If you have C++ compiling and SFML working, you should now be able to run the programs. To do so, open the server3.cpp and robot.cpp files in the C++ program and on each one, select make all from the build menu. Once both have been made they are ready to execute using the button up the top, the server3.cpp must be executed first followed by the robot.cpp for it to work correctly. To change to core, completion and challenge, edit the line in config.txt. You will not need to delete the .o and .exe when making the files in the future but they will need to be made each time they are changed. If you are getting the code from github, replace the code in robot.cpp with the code from the github page.
-
+If you have C++ compiling and SFML working, you should now be able to run the programs. To do so, open the server3.cpp and robot.cpp files in the C++ program and on each one, select make all from the build menu. Once both have been made they are ready to execute using the button up the top, the server3.cpp must be executed first followed by the robot.cpp for it to work correctly. To change to core, completion and challenge, edit the line in config.txt. You will not need to delete the .o and .exe when making the files in the future but they will need to be made each time they are changed. 
 
 
