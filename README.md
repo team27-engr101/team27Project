@@ -25,7 +25,7 @@ Primary source of communication will be discord, and to share team logs Google d
 Install
 For Windows -
 
-If you do not have a program to run and compile C++ programs you will need to install Geany and MinGW. If SFML isn't working, you will need to install MinGW again. To install MinGW again, you must first delete the existing version. 
+If you do not have a program to run and compile C++ programs you will need to install Geany and MinGW. If SFML isn't working (MinGW version may be outdated), you will need to install MinGW again. To install MinGW again, you must first delete the existing version. 
 
 
 Deleting MinGW
